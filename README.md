@@ -30,3 +30,4 @@
 * You could also run the solver in solver.py, although it's pretty slow and wasn't used outside of testing
 * Uncomment the export lines in main.go and run (go run *.go)
 ![image](https://user-images.githubusercontent.com/45410382/117250180-60c43000-ae32-11eb-9f78-d12d227faf36.png)
+*RESISTANCE IS FUTILE* came in 1st out of 235 CS170 teams
