@@ -1,6 +1,6 @@
-#*RESISTANCE IS FUTILE*
+# *RESISTANCE IS FUTILE*
 
-###How to run:
+### How to run:
 
 * Install the latest version of golang to your computer (1.16?)
 * Run a postgres instance on your computer attatched to port 31311
@@ -29,4 +29,3 @@
 * Once all the solvers throw an exception (indicating no more files to process), change settings and run again
 * You could also run the solver in solver.py, although it's pretty slow and wasn't used outside of testing
 * Uncomment the export lines in main.go and run (go run *.go)
-* Move the output folder to ./cannon, run prepare submission.py
